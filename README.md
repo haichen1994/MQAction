@@ -1,2 +1,4 @@
 # MQAction
-A MQ System implemented  by myself ,which refrence to RocketMQ。So far ,I just practice my study .
+   最近深入学习了阿里巴巴开源的消息中间件RocketMQ,深入学习了其实现思想，本着纪念自己的学习过程，实践检验自己的学习效果，开启了自己的GitHub旅程！
+本项目的根本在于实现一个MQ系统，不畏前险，勇往直前！
+
